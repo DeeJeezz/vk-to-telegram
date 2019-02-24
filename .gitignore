@@ -1,2 +1,4 @@
 # ignore generated json files
 *.json
+__pycache__/
+crypto.py
