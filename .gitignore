@@ -2,3 +2,7 @@
 *.json
 __pycache__/
 crypto.py
+config.ini
+1.py
+token
+*.session
