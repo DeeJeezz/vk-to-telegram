@@ -1,8 +1,7 @@
-# ignore generated json files
 *.json
 __pycache__/
 crypto.py
-config.ini
+*.ini
 1.py
 token
 *.session
