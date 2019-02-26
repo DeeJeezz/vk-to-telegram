@@ -6,4 +6,4 @@ config.ini
 1.py
 token
 *.session
-blocked_chats.txt
+*.txt
