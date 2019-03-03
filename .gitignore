@@ -6,3 +6,4 @@ crypto.py
 token
 *.session
 *.txt
+*.coverage
